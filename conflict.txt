@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 git is good at conflict resolution.
 
 please keep your line here:
+>>>>>>> 0122f24... this is to create conflicts
